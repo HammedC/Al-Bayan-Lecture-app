@@ -1,0 +1,7 @@
+{
+  "name": "BayanAI - Islamic Lecture Companion",
+  "description": "A production-grade Islamic lecture summarizer, verifier, and conversational agent using Gemini 2.5 and 3.0 models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
